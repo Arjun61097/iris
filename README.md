@@ -2,7 +2,7 @@
 
 IMPLEMENTATION
 
-Perform EDA and explore the features.
+*Perform EDA and explore the features.
 Encode the target variable.
 Split dataset into training, validation and test data.
 Implement KFold Cross Validation.
