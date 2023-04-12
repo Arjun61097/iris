@@ -3,7 +3,7 @@
 IMPLEMENTATION
 
 *Perform EDA and explore the features.
-Encode the target variable.
+*Encode the target variable.
 Split dataset into training, validation and test data.
 Implement KFold Cross Validation.
 Implement Grid Search to find optimal hyperparameters for SVC, RandomForestClassifier, and GradientBoostingClassifier.
